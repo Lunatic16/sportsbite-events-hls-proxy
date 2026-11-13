@@ -20,10 +20,6 @@ rewritten HLS manifests, streamed segments — playable in any browser, in a
 [![Docker ready](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Healthcheck built-in](https://img.shields.io/badge/HEALTHCHECK-built--in-brightgreen?style=flat-square)](#health-checks)
 
-✨ [Highlights](#highlights) 🧭 [How it works](#how-it-works) 🚀 [Quick start](#quick-start) 🩺 [Health checks](#health-checks) 💻 [Local development](#local-development) 📺 [Using IPTV players](#using-iptv-players) 🎬 [Multiview](#multiview) ⚙️ [Configuration](#configuration) 🔌 [API endpoints](#api-endpoints) 🛡️ [Rate-limit safety](#rate-limit-safety)
-
-![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,bun,nodejs,docker&perline=6)
-
 ![SportsRelay dashboard](docs/screenshots/dashboard.png)
 
 </div>
