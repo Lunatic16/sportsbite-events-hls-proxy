@@ -1,0 +1,37 @@
+# Dependencies / build artifacts — rebuilt inside the image
+node_modules
+.next
+out
+build
+
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# Sandbox / local runtime artifacts
+dev.log
+server.log
+.zscripts
+db
+upload
+download
+Caddyfile
+
+# Local env files — secrets and machine-specific values never go in images
+.env
+.env.*
+!.env.example
+
+# Docs & tooling not needed at runtime
+*.md
+tests
+examples
+mini-services
+skills
+.vscode
+.idea
+
+# OS noise
+.DS_Store
+Thumbs.db
