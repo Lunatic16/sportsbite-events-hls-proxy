@@ -48,12 +48,6 @@ rewritten HLS manifests, streamed segments — playable in any browser, in a
 - 🐳 **Ship it** — multi-stage Docker build, minimal non-root runtime image,
   built-in `HEALTHCHECK`, compose file with resource limits.
 
-## 🗂️ Contents
-
-
-- ⚠️ [Disclaimer](#disclaimer)
-- 🤝 [Contributing](#contributing)
-
 ## 🧭 How it works
 
 ```text
