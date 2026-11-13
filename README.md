@@ -14,7 +14,6 @@ rewritten HLS manifests, streamed segments — playable in any browser, in a
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Bun 1.3](https://img.shields.io/badge/Bun-1.3-F472B6?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
-
 [![hls.js 1.7](https://img.shields.io/badge/hls.js-1.7-8A2BE2?style=flat-square)](https://github.com/video-dev/hls.js)
 [![Node.js 22](https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Docker ready](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
