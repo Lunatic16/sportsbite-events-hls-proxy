@@ -150,6 +150,8 @@ compatibility.
 
 ## 🎬 Multiview
 
+![Multiview dashboard](docs/screenshots/multiview.png)
+
 Add events with the **+ Multi** button on any card, then open the floating
 tray. Three layout styles:
 
