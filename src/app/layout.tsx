@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "Modern Next.js HLS video relay: cached schedule proxy, manifest rewriting and segment passthrough for the SportsBite public sports API.",
   keywords: ["HLS", "proxy", "m3u8", "sports streaming", "SportsBite", "Next.js"],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://sportsbite.org/sfavicon.png",
   },
 };
 
